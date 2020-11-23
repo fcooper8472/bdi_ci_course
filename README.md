@@ -1,5 +1,6 @@
 ![Winodws Linux & macOS](https://github.com/fcooper8472/bdi_ci_course/workflows/Winodws%20Linux%20&%20macOS/badge.svg)
 ![Python 3.6-3.9](https://github.com/fcooper8472/bdi_ci_course/workflows/Python%203.6-3.9/badge.svg)
+[![codecov](https://codecov.io/gh/fcooper8472/bdi_ci_course/branch/main/graph/badge.svg?token=EWW7HIYSIO)](https://codecov.io/gh/fcooper8472/bdi_ci_course)
 
 # OxRSE Continuous Integration course
 
